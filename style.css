@@ -1,0 +1,179 @@
+body {
+    font-family: Roboto , sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    background: #EEEFF1;
+    text-decoration: none;
+}
+.main {
+    background-color: #FFF;
+}
+
+p {
+    margin: 0;
+}
+
+img {
+    margin-right: 10px;
+}
+
+span {
+    display: inline-block;
+}
+
+.header-nav {
+    display: inline-block;
+    margin: 100px 100px 151px 200px ;
+}
+
+.header-text {
+    display: inline-block;
+    margin-right: 42px;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+}
+
+.header-text-color {
+    color: #34547A;
+}
+
+h1 {
+    font-size: 48px;
+    width: 541px;
+    height: 45px;
+    font-weight: 500;
+    margin: 0 0 60px 200px;
+}
+
+.info-text {
+    display: inline-block;
+    color: #727272;
+    width: 540px;
+    height: 67px;
+    margin: 0 0 84px 200px ;
+}
+
+.button {
+    min-width: 225px;
+    min-height: 65px;
+    background: #34547A;
+    margin: 0 0 60px 200px;
+    color: #FFF;
+}
+
+
+.about-me {
+    background: #F9F9F9;
+}
+
+
+.about-me-text-head{
+    display: inline-block;
+    font-size: 32px;
+    margin-bottom: 50px;
+    font-weight: 500;
+    width: 403px;
+    height: 30px;
+    text-align: center;
+}  
+
+
+.about-me-text {
+    display: inline-block;
+    min-width: 440px;
+    min-height: 67px;
+    margin-bottom: 100px;
+    text-align: center;
+
+} 
+
+.wrapper {
+    width: 420px;
+    margin: 0 auto;
+}
+
+.images {
+    background-color: #34547A;
+    float: left;
+    margin-top: 30px;
+    color: #FFF;
+    margin-left: 24px;
+}
+
+.images-info {
+    float: right;
+    margin-right: 120px;
+
+}
+
+.wrapper-images {
+     width: 1600px;
+    margin: 0 auto;
+}
+
+.images-color {
+    background-color: #34547A;
+    height: 100px;
+    margin-bottom: 100px;
+}
+
+.work {
+    background-color: #EEEFF1;
+}
+
+.wrapper-work {
+    width: 420px;
+    margin: 0 auto;
+}
+
+.about-work-text-head {
+    display: inline-block;
+    font-size: 32px;
+    margin-bottom: 50px;
+    font-weight: 500;
+    width: 403px;
+    height: 30px;
+    text-align: center;
+}
+
+.about-work-text {
+    display: inline-block;
+    min-width: 440px;
+    min-height: 67px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.wrapper-video {
+    width: 420px;
+    margin: 0 560px;
+}
+
+.video {
+    margin-bottom: 100px;
+}
+
+.footer-info {
+    background-color: #34547A;
+    height: 100px;
+    padding: 10px 0;
+}
+
+.footer-text-title{
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 20px 200px;
+}
+
+.footer-text {
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164.063%;
+    margin: 0 200px;
+}
+
+
